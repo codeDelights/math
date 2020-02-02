@@ -1,0 +1,17 @@
+.header-style-1 .navbar-brand img, .header-style-2 .navbar-brand img {
+    max-width: 200px;
+}
+.contact-map-section .contact-map {
+    height: 400px;
+}
+.cta-section-s2 {
+    background: url(../images/bg1.jpg) center top/cover no-repeat local;
+}
+
+.page-title.services {
+    background: url(../images/servbgg.jpg) center center/cover no-repeat local;
+}
+
+.page-title.contact {
+    background: url(../images/contactbg.jpg) center center/cover no-repeat local;
+}
