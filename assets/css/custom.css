@@ -15,3 +15,7 @@
 .page-title.contact {
     background: url(../images/contactbg.jpg) center center/cover no-repeat local;
 }
+
+.page-title.about {
+    background: url(../images/aboutbg.jpg) center center/cover no-repeat local;
+}
