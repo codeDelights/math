@@ -27,3 +27,7 @@
 .page-title.enquiry {
     background: url(../images/enquiry.jpg) center center/cover no-repeat local;
 }
+
+.page-title.industry {
+    background: url(../images/industry.jpg) center center/cover no-repeat local;
+}
