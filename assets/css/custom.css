@@ -19,3 +19,11 @@
 .page-title.about {
     background: url(../images/aboutbg.jpg) center center/cover no-repeat local;
 }
+
+.page-title.career {
+    background: url(../images/career.jpg) center center/cover no-repeat local;
+}
+
+.page-title.enquiry {
+    background: url(../images/enquiry.jpg) center center/cover no-repeat local;
+}
