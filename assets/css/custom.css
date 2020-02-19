@@ -31,3 +31,11 @@
 .page-title.industry {
     background: url(../images/industry.jpg) center center/cover no-repeat local;
 }
+
+.service-card {
+    padding: 40px 10px;
+}
+
+.ser-card-des ul {
+    margin-left: 40px;
+}
