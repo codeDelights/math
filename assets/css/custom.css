@@ -43,3 +43,11 @@
     border-radius: 7px;
     box-shadow: 2px 2px 4px 2px #999;
 }
+
+.mless.section-title {
+    margin-bottom: 20px;
+}
+
+.about-us-section-s2 {
+  padding-bottom: 20px;
+}
