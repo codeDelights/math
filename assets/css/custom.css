@@ -51,3 +51,7 @@
 .about-us-section-s2 {
   padding-bottom: 20px;
 }
+
+.features-section .feature-grids .grid, .features-section-s2 .feature-grids .grid {
+    width: 33.33%;
+}
