@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8cf8e93-f0a1-464b-a0f3-29151a623796" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mail-career.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mail-enquiry.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/career.html" beforeDir="false" afterPath="$PROJECT_DIR$/career.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail-contact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +72,7 @@
       <workItem from="1581274865817" duration="688000" />
       <workItem from="1581395090759" duration="2732000" />
       <workItem from="1581444675381" duration="135000" />
-      <workItem from="1615406562676" duration="1722000" />
+      <workItem from="1615406562676" duration="2423000" />
     </task>
     <servers />
   </component>
