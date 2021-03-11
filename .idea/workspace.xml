@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8cf8e93-f0a1-464b-a0f3-29151a623796" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/career.html" beforeDir="false" afterPath="$PROJECT_DIR$/career.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail-career.php" beforeDir="false" afterPath="$PROJECT_DIR$/mail-career.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +75,9 @@
       <workItem from="1581274865817" duration="688000" />
       <workItem from="1581395090759" duration="2732000" />
       <workItem from="1581444675381" duration="135000" />
-      <workItem from="1615406562676" duration="2423000" />
+      <workItem from="1615406562676" duration="3205000" />
+      <workItem from="1615434854305" duration="772000" />
+      <workItem from="1615436203939" duration="669000" />
     </task>
     <servers />
   </component>
@@ -89,6 +94,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="431" y="155" key="search.everywhere.popup" timestamp="1580150106794">

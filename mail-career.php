@@ -6,7 +6,7 @@ if(isset($_POST['submit'])){
     $number = $_POST['phone'];
     $subject = "Form submission";
     $subject2 = "Copy of your form submission";
-    $message = $first_name . " wrote the following:" . "\n\n" . $_POST['message'];
+    $message = $first_name . " wrote the following:" . "\n\n" . $_POST['note'];
     $message2 = "Here is a copy of your message " . $first_name . "\n\n" . $_POST['note'];
 
     $headers = "From:" . $from;
