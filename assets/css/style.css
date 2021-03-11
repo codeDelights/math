@@ -2325,6 +2325,13 @@ img {
   text-align: left;
 }
 
+.hero-slider .slide-inner .container .container-inner {
+  display: inline-block;
+  width: auto;
+  padding: 20px 30px;
+  background-color: rgba(0,0,0,0.7);
+}
+
 .hero-slider .swiper-button-prev,
 .hero-slider .swiper-button-next {
   background: rgba(255, 255, 255, 0.1);

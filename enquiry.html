@@ -95,6 +95,7 @@
                 method="post"
                 class="contact-validation-active"
                 id="contact-form-main"
+                action="mail-enquiry.php"
               >
                 <div>
                   <input
@@ -103,24 +104,7 @@
                     name="name"
                     id="name"
                     placeholder="Full Name*"
-                  />
-                </div>
-                <div>
-                  <input
-                    type="text"
-                    class="form-control"
-                    name="designation"
-                    id="designation"
-                    placeholder="Designation*"
-                  />
-                </div>
-                <div>
-                  <input
-                    type="text"
-                    class="form-control"
-                    name="company"
-                    id="company"
-                    placeholder="Company Name*"
+                    required
                   />
                 </div>
                 <div>
@@ -130,6 +114,25 @@
                     name="location"
                     id="location"
                     placeholder="Location*"
+                    required
+                  />
+                </div>
+                <div>
+                  <input
+                    type="text"
+                    class="form-control"
+                    name="designation"
+                    id="designation"
+                    placeholder="Designation"
+                  />
+                </div>
+                <div>
+                  <input
+                    type="text"
+                    class="form-control"
+                    name="company"
+                    id="company"
+                    placeholder="Company Name"
                   />
                 </div>
                 <div>
@@ -139,6 +142,7 @@
                     name="email"
                     id="email"
                     placeholder="Email*"
+                    required
                   />
                 </div>
                 <div>
@@ -148,24 +152,26 @@
                     name="phone"
                     id="phone"
                     placeholder="Phone*"
+                    required
                   />
                 </div>
                 <div class="fullwidth">
-                  <select name="subject" class="form-control">
-                    <option disabled="disabled" selected>
-                      Contact subject
-                    </option>
-                    <option>Subject 1</option>
-                    <option>Subject 2</option>
-                    <option>Subject 3</option>
-                  </select>
+                  <input
+                    type="text"
+                    class="form-control"
+                    name="subject"
+                    id="subject"
+                    placeholder="Subject*"
+                    required
+                  />
                 </div>
                 <div class="fullwidth">
                   <textarea
                     class="form-control"
-                    name="note"
-                    id="note"
+                    name="message"
+                    id="message"
                     placeholder="Case Description..."
+                    required
                   ></textarea>
                 </div>
                 <div class="submit-area">
