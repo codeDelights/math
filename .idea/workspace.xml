@@ -3,8 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="a8cf8e93-f0a1-464b-a0f3-29151a623796" name="Default Changelist" comment="email for career">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/math/header_bg_careers.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/math/header_bg_careers.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/math/home_main.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/math/home_main.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/math/home_main.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +40,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -76,7 +81,8 @@
       <workItem from="1581444675381" duration="135000" />
       <workItem from="1615406562676" duration="3205000" />
       <workItem from="1615434854305" duration="772000" />
-      <workItem from="1615436203939" duration="7623000" />
+      <workItem from="1615436203939" duration="8230000" />
+      <workItem from="1615709175189" duration="2181000" />
     </task>
     <task id="LOCAL-00001" summary="email for career">
       <created>1615436941299</created>

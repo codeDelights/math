@@ -17,12 +17,11 @@
 }
 
 .page-title.about {
-    background: url(../images/aboutbg.jpg) center center/cover no-repeat local;
+    background: url(../images/math/header_bg_about.jpg) center center/cover no-repeat local;
 }
 
 .page-title.career {
     background: url(../images/math/header_bg_careers.jpg) center center/cover no-repeat local;
-    background-size: auto;
 }
 
 .page-title.enquiry {
