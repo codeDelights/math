@@ -2328,8 +2328,9 @@ img {
 .hero-slider .slide-inner .container .container-inner {
   display: inline-block;
   width: auto;
-  padding: 20px 30px;
-  background-color: rgba(0,0,0,0.7);
+  padding: 25px 30px;
+  background-color: rgba(0,0,0,0.4);
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
 }
 
 .hero-slider .swiper-button-prev,
@@ -5106,7 +5107,7 @@ img {
 }
 
 .about-us-page-section {
-  padding-bottom: 0;
+  /*padding-bottom: 0;*/
 }
 
 .about-us-page-feature {
